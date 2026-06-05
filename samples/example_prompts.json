@@ -1,0 +1,26 @@
+{
+  "examples": [
+    {
+      "id": "wrist_circle",
+      "title": {
+        "zh-TW": "手腕轉圈（精簡範例）",
+        "en": "Wrist Circles (short example)"
+      },
+      "text": {
+        "zh-TW": "9.4 手腕轉圈\n目標：增加手腕活動度，促進腕關節滑液循環。\n\n第一部分：基本資料\n運動名稱： 手腕轉圈 (Wrist Circles)\n目標： 溫和活動手腕，改善僵硬。\n\n第二部分：起始姿勢\n設備： 無（坐姿或站姿皆可）\n視覺描述： 前臂平放於桌面或大腿上，手腕自然懸空於桌緣外，手掌朝下。\n\n第三部分：多步驟動作分解\n步驟一：\n動作： 以手腕為軸，緩慢畫小圓圈，先順時針 10 次。\n核心概念： 只動手腕，前臂固定不動。\n錯誤動作： 整條手臂跟著轉動。\n\n步驟二：\n動作： 改逆時針 10 次，速度均勻。\n核心概念： 範圍以不疼痛為限。\n錯誤動作： 過快或用力甩動。",
+        "en": "9.4 Wrist Circles\nGoal: Improve wrist mobility and promote synovial fluid circulation.\n\nPart 1: Basic information\nExercise name: Wrist Circles\nGoal: Gently mobilize the wrist and reduce stiffness.\n\nPart 2: Starting position\nEquipment: None (sitting or standing)\nVisual description: Forearm resting on a table or thigh, wrist hanging beyond the edge, palm facing down.\n\nPart 3: Step-by-step breakdown\nStep 1:\nAction: Draw small circles with the wrist, clockwise 10 times.\nKey concept: Move only the wrist; keep the forearm still.\nIncorrect: Rotating the entire arm.\n\nStep 2:\nAction: Repeat counterclockwise 10 times at an even pace.\nKey concept: Stay within a pain-free range.\nIncorrect: Moving too fast or flicking the wrist."
+      }
+    },
+    {
+      "id": "chin_tuck",
+      "title": {
+        "zh-TW": "縮下巴運動（精簡範例）",
+        "en": "Chin Tucks (short example)"
+      },
+      "text": {
+        "zh-TW": "1.2 縮下巴運動 (Chin Tucks)\n目標： 矯正頭部前伸姿勢，減輕頸椎壓力。\n\n第一部分：基本資料\n運動名稱： 縮下巴運動\n目標： 恢復頸椎中立對齊。\n\n第二部分：起始姿勢\n設備： 無\n視覺描述： 坐姿端正，目視前方，肩膀放鬆下沉。\n\n第三部分：多步驟動作分解\n步驟一：\n動作： 下巴水平向後收，像做出雙下巴，停 3 秒後放鬆。\n核心概念： 頭部不上下點頭，僅水平後移。\n錯誤動作： 低頭看胸口。",
+        "en": "1.2 Chin Tucks\nGoal: Correct forward head posture and reduce cervical spine stress.\n\nPart 1: Basic information\nExercise name: Chin Tucks\nGoal: Restore neutral cervical alignment.\n\nPart 2: Starting position\nEquipment: None\nVisual description: Sit upright, eyes forward, shoulders relaxed and down.\n\nPart 3: Step-by-step breakdown\nStep 1:\nAction: Glide the chin straight back (create a gentle double chin), hold 3 seconds, then relax.\nKey concept: No nodding up or down—only horizontal retraction.\nIncorrect: Looking down at the chest."
+      }
+    }
+  ]
+}
